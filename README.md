@@ -49,7 +49,7 @@
 
 ## Our Team
 ***
-### Joy He
+### Manjuan He
 Role: HTML and CSS, retrieving weather API data, integrating weather into main HTML file
 ### Dan Kilian
 Role: Initial Google API handling, and then he quit `¯\_(ツ)_/¯`
